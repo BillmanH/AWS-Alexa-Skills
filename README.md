@@ -1,7 +1,9 @@
 ###Projects with the Alexa Skills kit. 
 
 ##Introduce My Friends
-Basic "Helo World" of the skills. Copied from the tutorial color picker. 
+Basic "Helo World" of the skills. 
+Say to Alexa: "Do you know my friend James, from my friends list?"
+and Alexa will return a response based on a list I created.
 
 Next step: Query values from RDS within lambda function. 
 
